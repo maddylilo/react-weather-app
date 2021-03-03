@@ -1,0 +1,12 @@
+.card {
+  display: block;
+  margin: 20px auto;
+  max-width: 55%;
+  background-image: linear-gradient(to top, #6a85b6 0%, #bac8e0 100%);
+  box-shadow: 1px 1px 10px rgba(108, 135, 183, 0.6);
+  border: none;
+}
+
+hr {
+  margin: 20px auto;
+}

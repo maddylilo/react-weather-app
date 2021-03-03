@@ -1,0 +1,32 @@
+.current-temp {
+  font-size: 65px;
+  text-align: left;
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.celsius {
+  font-size: 30px;
+  vertical-align: 27px;
+  padding-right: 15px;
+  padding-left: 6px;
+}
+
+.fahrenheit {
+  font-size: 30px;
+  vertical-align: 27px;
+}
+
+.inactive {
+  color: #6a85b6;
+  text-decoration: none;
+}
