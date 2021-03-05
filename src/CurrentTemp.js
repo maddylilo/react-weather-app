@@ -6,12 +6,14 @@ export default function CurrentTemp() {
     <div className="col-3 current-temp">
       <span id="temperatureNow">12</span>
       <span>
-        <a href="#" className="celsius" id="celsius">
+        {/* <a href="#0" className="celsius" id="celsius">
           °C
         </a>
-        <a href="#" className="fahrenheit inactive" id="fahrenheit">
+        <a href="#0" className="fahrenheit inactive" id="fahrenheit">
           F
-        </a>
+        </a> */}
+        <p className="celsius">°C</p>
+        <p className="fahrenheit inactive">F</p>
       </span>
     </div>
   );

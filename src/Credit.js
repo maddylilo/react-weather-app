@@ -6,7 +6,7 @@ export default function Credit() {
     <p className="credit">
       {" "}
       <a
-        href="https://github.com/maddylilo/weather-app-project"
+        href="https://github.com/maddylilo/react-weather-app"
         className="credit"
         target="_blank"
         rel="noreferrer"
